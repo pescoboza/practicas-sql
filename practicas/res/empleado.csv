@@ -1,0 +1,16 @@
+RFC,nombre,apellidoP,apellidoM,fechaNac,calle,colonia,ciudad,sexo,salario ,RFCSupervisor,numDepto
+CUPU800825569,Ulises,Cuevas,Perez,19760810,Filomeno 13,El puentecito,Guadalajara,M,233.56,null,1
+AORR720524GM3,Rocio ,Alcocer,Ramírez,19720524,Peras 500,El jardin,Leon,F,112.2,CUPU800825569,2
+BAAB810210S21,Belen,Bahena,Ambriz,19810210, Rosas 10,El rosal,Juarez,F,123.45,CUPU800825569,3
+CAPH690316SZ3,Heriberto,Casimiro,Poblete,19690316,La Loma 1000,La loma,Tlajomulco,F,123.46,CUPU800825569,4
+DOFV850701S12,Victor ,Dorantes,Flores,19850701,Circuito 20,La rotonda,Tecamac,M,234.23,CUPU800825569,5
+CUSO820623PBA,Omar ,Cuevas ,Sánchez,19820603,Colegio 23,El colegio,Guadalajara,M,125.78,CUPU800825569,1
+FOEJ800829S12,Janet ,Flores,Esteves,19800829,Zamudio 5,Doctores,Leon,F,89.9,AORR720524GM3,2
+HEGL600422M14,Leonor ,Hernández,García,19600422,Reyes 42,Escritores,Torreon,F,112.2,AORR720524GM3,2
+LORS800801M06,Saúl,Lúpez,Romero,19800801,Geranios 20,Geranios,Queretaro,M,123.45,AORR720524GM3,2
+MAVE800220LD8,Eleuterio,Mayo,Vargas,19800222,Pastoreo 2,Las cabras,Queretaro,M,123.46,BAAB810210S21,3
+MOCR840809S05,Rafael,Mora,Castro,19840809,Homero 2,Simpson,Zapopan,M,234.23,BAAB810210S21,3
+MOBY820325T32,Yudit,Mora,Bello,19820325,Hortensias 23,Las flores,Tonala,F,125.78,CAPH690316SZ3,4
+OEPR690206E37,Rafael,Otero,Pérez,19690206,Cedro 2,Bosques,Tlaquepaque,M,89.9,CAPH690316SZ3,4
+PEOA7101183K1,Alexander,Pérez,Otero,19710118,Coral 25,Maritima,Mexico,M,234.23,DOFV850701S12,5
+RERM720813000,Mario,Reyes,Ramírez,19720813,Fernandez 56,Investigadores,Mexico,M,125.78,DOFV850701S12,5
